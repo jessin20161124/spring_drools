@@ -1,0 +1,16 @@
+02-05 23:30:07.030 ERROR org.drools.compiler.kie.builder.impl.KieProject:221 [main] Unable to build KieBase, could not find include: kiebase1
+02-05 23:30:07.035 ERROR org.drools.compiler.kie.builder.impl.KieProject:221 [main] Unable to build KieBase, could not find include: kiebase2
+02-05 23:43:24.680 ERROR org.drools.compiler.kie.builder.impl.KieProject:253 [main] Unable to build KieBaseModel:kiemodulemodel
+Unable to resolve ObjectType 'Message' : [Rule name='rule6']
+
+Rule Compilation error : [Rule name='rule6']
+	org/drools/example/api/kiemodulemodel/Rule_rule62105167107.java (2:54) : Only a type can be imported. org.drools.example.api.namedkiesession.Message resolves to a package
+	org/drools/example/api/kiemodulemodel/Rule_rule62105167107.java (7:457) : Message cannot be resolved to a type
+
+Error importing : 'org.drools.example.api.namedkiesession.Message'
+
+02-05 23:48:32.492 ERROR org.drools.compiler.kie.builder.impl.KieProject:253 [main] Unable to build KieBaseModel:kiemodulemodel
+Rule Compilation error : [Rule name='rule6']
+	org/drools/example/api/kiemodulemodel/Rule_rule6331113617.java (8:485) : Syntax error, insert ";" to complete Statement
+
+

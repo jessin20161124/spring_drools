@@ -1,0 +1,669 @@
+02-05 21:34:43.004  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:131 [main] Found kmodule: file:/home/jessin/Documents/Program/Java/spring_drools/target/classes/META-INF/kmodule.xml
+02-05 21:34:43.007 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:400 [main] KieModule URL type=file url=/home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 21:34:43.306  WARN org.drools.compiler.kie.builder.impl.ClasspathKieProject:289 [main] Unable to find pom.properties in /home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 21:34:43.316  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:331 [main] Recursed up folders, found and used pom.xml /home/jessin/Documents/Program/Java/spring_drools/pom.xml
+02-05 21:34:43.318 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:118 [main] Discovered classpath module com.jessin.practice:spring_drools:1.0.0-SNAPSHOT
+02-05 21:34:43.323  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:113 [main] KieModule was added: FileKieModule[releaseId=com.jessin.practice:spring_drools:1.0.0-SNAPSHOT,file=/home/jessin/Documents/Program/Java/spring_drools/target/classes]
+02-05 21:34:44.405 DEBUG org.drools.core.impl.KnowledgeBaseImpl:196 [main] Starting Engine in PHREAK mode
+02-05 21:41:35.190  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:131 [main] Found kmodule: file:/home/jessin/Documents/Program/Java/spring_drools/target/classes/META-INF/kmodule.xml
+02-05 21:41:35.194 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:400 [main] KieModule URL type=file url=/home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 21:41:35.504  WARN org.drools.compiler.kie.builder.impl.ClasspathKieProject:289 [main] Unable to find pom.properties in /home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 21:41:35.510  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:331 [main] Recursed up folders, found and used pom.xml /home/jessin/Documents/Program/Java/spring_drools/pom.xml
+02-05 21:41:35.512 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:118 [main] Discovered classpath module com.jessin.practice:spring_drools:1.0.0-SNAPSHOT
+02-05 21:41:35.518  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:113 [main] KieModule was added: FileKieModule[releaseId=com.jessin.practice:spring_drools:1.0.0-SNAPSHOT,file=/home/jessin/Documents/Program/Java/spring_drools/target/classes]
+02-05 21:41:36.559 DEBUG org.drools.core.impl.KnowledgeBaseImpl:196 [main] Starting Engine in PHREAK mode
+02-05 21:43:53.773  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:131 [main] Found kmodule: file:/home/jessin/Documents/Program/Java/spring_drools/target/classes/META-INF/kmodule.xml
+02-05 21:43:53.778 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:400 [main] KieModule URL type=file url=/home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 21:43:54.298  WARN org.drools.compiler.kie.builder.impl.ClasspathKieProject:289 [main] Unable to find pom.properties in /home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 21:43:54.308  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:331 [main] Recursed up folders, found and used pom.xml /home/jessin/Documents/Program/Java/spring_drools/pom.xml
+02-05 21:43:54.309 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:118 [main] Discovered classpath module com.jessin.practice:spring_drools:1.0.0-SNAPSHOT
+02-05 21:43:54.319  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:113 [main] KieModule was added: FileKieModule[releaseId=com.jessin.practice:spring_drools:1.0.0-SNAPSHOT,file=/home/jessin/Documents/Program/Java/spring_drools/target/classes]
+02-05 21:43:55.751 DEBUG org.drools.core.impl.KnowledgeBaseImpl:196 [main] Starting Engine in PHREAK mode
+02-05 22:11:43.702  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:131 [main] Found kmodule: file:/home/jessin/Documents/Program/Java/spring_drools/target/classes/META-INF/kmodule.xml
+02-05 22:11:43.706 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:400 [main] KieModule URL type=file url=/home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 22:11:44.048  WARN org.drools.compiler.kie.builder.impl.ClasspathKieProject:289 [main] Unable to find pom.properties in /home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 22:11:44.056  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:331 [main] Recursed up folders, found and used pom.xml /home/jessin/Documents/Program/Java/spring_drools/pom.xml
+02-05 22:11:44.058 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:118 [main] Discovered classpath module com.jessin.practice:spring_drools:1.0.0-SNAPSHOT
+02-05 22:11:44.064  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:113 [main] KieModule was added: FileKieModule[releaseId=com.jessin.practice:spring_drools:1.0.0-SNAPSHOT,file=/home/jessin/Documents/Program/Java/spring_drools/target/classes]
+02-05 22:12:22.989  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:131 [main] Found kmodule: file:/home/jessin/Documents/Program/Java/spring_drools/target/classes/META-INF/kmodule.xml
+02-05 22:12:22.994 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:400 [main] KieModule URL type=file url=/home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 22:12:23.342  WARN org.drools.compiler.kie.builder.impl.ClasspathKieProject:289 [main] Unable to find pom.properties in /home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 22:12:23.351  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:331 [main] Recursed up folders, found and used pom.xml /home/jessin/Documents/Program/Java/spring_drools/pom.xml
+02-05 22:12:23.354 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:118 [main] Discovered classpath module com.jessin.practice:spring_drools:1.0.0-SNAPSHOT
+02-05 22:12:23.360  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:113 [main] KieModule was added: FileKieModule[releaseId=com.jessin.practice:spring_drools:1.0.0-SNAPSHOT,file=/home/jessin/Documents/Program/Java/spring_drools/target/classes]
+02-05 22:12:24.823 DEBUG org.drools.core.impl.KnowledgeBaseImpl:196 [main] Starting Engine in PHREAK mode
+02-05 22:19:29.773  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:19:29.778  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-compiler/7.7.0.Final/drools-compiler-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:19:29.869  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.kie.builder.impl.KieServicesImpl
+
+02-05 22:19:29.887  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.builder.impl.KnowledgeBuilderFactoryServiceImpl
+
+02-05 22:19:29.888  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:19:29.889  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-core/7.7.0.Final/drools-core-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:19:29.892  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.io.impl.ResourceFactoryServiceImpl
+
+02-05 22:19:29.894  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.marshalling.impl.MarshallerProviderImpl
+
+02-05 22:19:29.896  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.concurrent.ExecutorProviderImpl
+
+02-05 22:19:29.897  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:19:29.901  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/kie/kie-internal/7.7.0.Final/kie-internal-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:19:29.903  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieWeaversImpl
+
+02-05 22:19:29.905  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieBeliefsImpl
+
+02-05 22:19:29.906  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieAssemblersImpl
+
+02-05 22:19:29.908  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieRuntimesImpl
+
+02-05 22:19:29.944  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:131 [main] Found kmodule: file:/home/jessin/Documents/Program/Java/spring_drools/target/classes/META-INF/kmodule.xml
+02-05 22:19:29.945 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:397 [main] KieModule URL type=file url=/home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 22:19:30.350  WARN org.drools.compiler.kie.builder.impl.ClasspathKieProject:286 [main] Unable to find pom.properties in /home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 22:19:30.372  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:328 [main] Recursed up folders, found and used pom.xml /home/jessin/Documents/Program/Java/spring_drools/pom.xml
+02-05 22:19:30.379 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:118 [main] Discovered classpath module com.jessin.practice:spring_drools:1.0.0-SNAPSHOT
+02-05 22:19:30.391  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:111 [main] KieModule was added: FileKieModule[releaseId=com.jessin.practice:spring_drools:1.0.0-SNAPSHOT,file=/home/jessin/Documents/Program/Java/spring_drools/target/classes]
+02-05 22:19:50.352  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:19:50.360  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-compiler/7.7.0.Final/drools-compiler-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:19:50.458  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.kie.builder.impl.KieServicesImpl
+
+02-05 22:19:50.470  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.builder.impl.KnowledgeBuilderFactoryServiceImpl
+
+02-05 22:19:50.471  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:19:50.472  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-core/7.7.0.Final/drools-core-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:19:50.475  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.io.impl.ResourceFactoryServiceImpl
+
+02-05 22:19:50.478  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.marshalling.impl.MarshallerProviderImpl
+
+02-05 22:19:50.479  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.concurrent.ExecutorProviderImpl
+
+02-05 22:19:50.480  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:19:50.485  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/kie/kie-internal/7.7.0.Final/kie-internal-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:19:50.486  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieWeaversImpl
+
+02-05 22:19:50.488  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieBeliefsImpl
+
+02-05 22:19:50.490  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieAssemblersImpl
+
+02-05 22:19:50.491  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieRuntimesImpl
+
+02-05 22:19:50.527  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:131 [main] Found kmodule: file:/home/jessin/Documents/Program/Java/spring_drools/target/classes/META-INF/kmodule.xml
+02-05 22:19:50.528 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:397 [main] KieModule URL type=file url=/home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 22:19:50.994  WARN org.drools.compiler.kie.builder.impl.ClasspathKieProject:286 [main] Unable to find pom.properties in /home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 22:19:51.018  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:328 [main] Recursed up folders, found and used pom.xml /home/jessin/Documents/Program/Java/spring_drools/pom.xml
+02-05 22:19:51.024 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:118 [main] Discovered classpath module com.jessin.practice:spring_drools:1.0.0-SNAPSHOT
+02-05 22:19:51.032  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:111 [main] KieModule was added: FileKieModule[releaseId=com.jessin.practice:spring_drools:1.0.0-SNAPSHOT,file=/home/jessin/Documents/Program/Java/spring_drools/target/classes]
+02-05 22:20:27.260  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:20:27.267  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-compiler/7.7.0.Final/drools-compiler-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:20:27.360  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.kie.builder.impl.KieServicesImpl
+
+02-05 22:20:27.371  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.builder.impl.KnowledgeBuilderFactoryServiceImpl
+
+02-05 22:20:27.372  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:20:27.376  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-core/7.7.0.Final/drools-core-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:20:27.378  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.io.impl.ResourceFactoryServiceImpl
+
+02-05 22:20:27.379  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.marshalling.impl.MarshallerProviderImpl
+
+02-05 22:20:27.380  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.concurrent.ExecutorProviderImpl
+
+02-05 22:20:27.381  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:20:27.387  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/kie/kie-internal/7.7.0.Final/kie-internal-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:20:27.389  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieWeaversImpl
+
+02-05 22:20:27.391  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieBeliefsImpl
+
+02-05 22:20:27.397  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieAssemblersImpl
+
+02-05 22:20:27.398  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieRuntimesImpl
+
+02-05 22:20:27.426  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:131 [main] Found kmodule: file:/home/jessin/Documents/Program/Java/spring_drools/target/classes/META-INF/kmodule.xml
+02-05 22:20:27.426 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:397 [main] KieModule URL type=file url=/home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 22:20:27.836  WARN org.drools.compiler.kie.builder.impl.ClasspathKieProject:286 [main] Unable to find pom.properties in /home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 22:20:27.849  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:328 [main] Recursed up folders, found and used pom.xml /home/jessin/Documents/Program/Java/spring_drools/pom.xml
+02-05 22:20:27.854 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:118 [main] Discovered classpath module com.jessin.practice:spring_drools:1.0.0-SNAPSHOT
+02-05 22:20:27.860  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:111 [main] KieModule was added: FileKieModule[releaseId=com.jessin.practice:spring_drools:1.0.0-SNAPSHOT,file=/home/jessin/Documents/Program/Java/spring_drools/target/classes]
+02-05 22:23:24.905  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:23:24.911  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-compiler/7.7.0.Final/drools-compiler-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:23:25.002  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.kie.builder.impl.KieServicesImpl
+
+02-05 22:23:25.016  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.builder.impl.KnowledgeBuilderFactoryServiceImpl
+
+02-05 22:23:25.016  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:23:25.017  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-core/7.7.0.Final/drools-core-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:23:25.019  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.io.impl.ResourceFactoryServiceImpl
+
+02-05 22:23:25.020  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.marshalling.impl.MarshallerProviderImpl
+
+02-05 22:23:25.021  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.concurrent.ExecutorProviderImpl
+
+02-05 22:23:25.024  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:23:25.025  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/kie/kie-internal/7.7.0.Final/kie-internal-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:23:25.027  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieWeaversImpl
+
+02-05 22:23:25.028  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieBeliefsImpl
+
+02-05 22:23:25.029  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieAssemblersImpl
+
+02-05 22:23:25.030  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieRuntimesImpl
+
+02-05 22:23:25.061  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:131 [main] Found kmodule: file:/home/jessin/Documents/Program/Java/spring_drools/target/classes/META-INF/kmodule.xml
+02-05 22:23:25.062 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:397 [main] KieModule URL type=file url=/home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 22:23:25.505  WARN org.drools.compiler.kie.builder.impl.ClasspathKieProject:286 [main] Unable to find pom.properties in /home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 22:23:25.516  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:328 [main] Recursed up folders, found and used pom.xml /home/jessin/Documents/Program/Java/spring_drools/pom.xml
+02-05 22:23:25.523 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:118 [main] Discovered classpath module com.jessin.practice:spring_drools:1.0.0-SNAPSHOT
+02-05 22:23:25.529  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:111 [main] KieModule was added: FileKieModule[releaseId=com.jessin.practice:spring_drools:1.0.0-SNAPSHOT,file=/home/jessin/Documents/Program/Java/spring_drools/target/classes]
+02-05 22:25:16.068  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:25:16.076  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-compiler/7.7.0.Final/drools-compiler-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:25:16.154  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.kie.builder.impl.KieServicesImpl
+
+02-05 22:25:16.159  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.builder.impl.KnowledgeBuilderFactoryServiceImpl
+
+02-05 22:25:16.159  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:25:16.160  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-core/7.7.0.Final/drools-core-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:25:16.164  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.io.impl.ResourceFactoryServiceImpl
+
+02-05 22:25:16.170  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.marshalling.impl.MarshallerProviderImpl
+
+02-05 22:25:16.171  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.concurrent.ExecutorProviderImpl
+
+02-05 22:25:16.174  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:25:16.175  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/kie/kie-internal/7.7.0.Final/kie-internal-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:25:16.176  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieWeaversImpl
+
+02-05 22:25:16.177  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieBeliefsImpl
+
+02-05 22:25:16.178  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieAssemblersImpl
+
+02-05 22:25:16.180  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieRuntimesImpl
+
+02-05 22:25:16.207  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:131 [main] Found kmodule: file:/home/jessin/Documents/Program/Java/spring_drools/target/classes/META-INF/kmodule.xml
+02-05 22:25:16.208 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:397 [main] KieModule URL type=file url=/home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 22:25:16.640  WARN org.drools.compiler.kie.builder.impl.ClasspathKieProject:286 [main] Unable to find pom.properties in /home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 22:25:16.648  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:328 [main] Recursed up folders, found and used pom.xml /home/jessin/Documents/Program/Java/spring_drools/pom.xml
+02-05 22:25:16.655 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:118 [main] Discovered classpath module com.jessin.practice:spring_drools:1.0.0-SNAPSHOT
+02-05 22:25:16.661  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:111 [main] KieModule was added: FileKieModule[releaseId=com.jessin.practice:spring_drools:1.0.0-SNAPSHOT,file=/home/jessin/Documents/Program/Java/spring_drools/target/classes]
+02-05 22:28:59.975  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:28:59.981  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-compiler/7.7.0.Final/drools-compiler-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:29:00.066  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.kie.builder.impl.KieServicesImpl
+
+02-05 22:29:00.079  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.builder.impl.KnowledgeBuilderFactoryServiceImpl
+
+02-05 22:29:00.080  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:29:00.081  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-core/7.7.0.Final/drools-core-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:29:00.083  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.io.impl.ResourceFactoryServiceImpl
+
+02-05 22:29:00.086  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.marshalling.impl.MarshallerProviderImpl
+
+02-05 22:29:00.087  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.concurrent.ExecutorProviderImpl
+
+02-05 22:29:00.088  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:29:00.089  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/kie/kie-internal/7.7.0.Final/kie-internal-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:29:00.091  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieWeaversImpl
+
+02-05 22:29:00.092  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieBeliefsImpl
+
+02-05 22:29:00.093  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieAssemblersImpl
+
+02-05 22:29:00.095  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieRuntimesImpl
+
+02-05 22:29:00.125  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:131 [main] Found kmodule: file:/home/jessin/Documents/Program/Java/spring_drools/target/classes/META-INF/kmodule.xml
+02-05 22:29:00.126 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:397 [main] KieModule URL type=file url=/home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 22:29:00.625  WARN org.drools.compiler.kie.builder.impl.ClasspathKieProject:286 [main] Unable to find pom.properties in /home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 22:29:00.650  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:328 [main] Recursed up folders, found and used pom.xml /home/jessin/Documents/Program/Java/spring_drools/pom.xml
+02-05 22:29:00.656 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:118 [main] Discovered classpath module com.jessin.practice:spring_drools:1.0.0-SNAPSHOT
+02-05 22:29:00.666  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:111 [main] KieModule was added: FileKieModule[releaseId=com.jessin.practice:spring_drools:1.0.0-SNAPSHOT,file=/home/jessin/Documents/Program/Java/spring_drools/target/classes]
+02-05 22:29:02.463 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was INACTIVE is now FIRING_ALL_RULES
+02-05 22:29:02.539 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was FIRING_ALL_RULES is now HALTING
+02-05 22:29:02.539 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was HALTING is now INACTIVE
+02-05 22:29:25.238  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:29:25.247  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-compiler/7.7.0.Final/drools-compiler-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:29:25.345  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.kie.builder.impl.KieServicesImpl
+
+02-05 22:29:25.356  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.builder.impl.KnowledgeBuilderFactoryServiceImpl
+
+02-05 22:29:25.357  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:29:25.358  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-core/7.7.0.Final/drools-core-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:29:25.360  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.io.impl.ResourceFactoryServiceImpl
+
+02-05 22:29:25.365  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.marshalling.impl.MarshallerProviderImpl
+
+02-05 22:29:25.366  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.concurrent.ExecutorProviderImpl
+
+02-05 22:29:25.370  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:29:25.371  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/kie/kie-internal/7.7.0.Final/kie-internal-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:29:25.373  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieWeaversImpl
+
+02-05 22:29:25.375  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieBeliefsImpl
+
+02-05 22:29:25.376  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieAssemblersImpl
+
+02-05 22:29:25.379  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieRuntimesImpl
+
+02-05 22:29:25.407  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:131 [main] Found kmodule: file:/home/jessin/Documents/Program/Java/spring_drools/target/classes/META-INF/kmodule.xml
+02-05 22:29:25.408 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:397 [main] KieModule URL type=file url=/home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 22:29:25.848  WARN org.drools.compiler.kie.builder.impl.ClasspathKieProject:286 [main] Unable to find pom.properties in /home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 22:29:25.857  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:328 [main] Recursed up folders, found and used pom.xml /home/jessin/Documents/Program/Java/spring_drools/pom.xml
+02-05 22:29:25.866 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:118 [main] Discovered classpath module com.jessin.practice:spring_drools:1.0.0-SNAPSHOT
+02-05 22:29:25.882  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:111 [main] KieModule was added: FileKieModule[releaseId=com.jessin.practice:spring_drools:1.0.0-SNAPSHOT,file=/home/jessin/Documents/Program/Java/spring_drools/target/classes]
+02-05 22:30:14.670  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:30:14.678  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-compiler/7.7.0.Final/drools-compiler-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:30:14.757  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.kie.builder.impl.KieServicesImpl
+
+02-05 22:30:14.763  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.builder.impl.KnowledgeBuilderFactoryServiceImpl
+
+02-05 22:30:14.763  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:30:14.764  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-core/7.7.0.Final/drools-core-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:30:14.767  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.io.impl.ResourceFactoryServiceImpl
+
+02-05 22:30:14.769  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.marshalling.impl.MarshallerProviderImpl
+
+02-05 22:30:14.771  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.concurrent.ExecutorProviderImpl
+
+02-05 22:30:14.775  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:30:14.776  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/kie/kie-internal/7.7.0.Final/kie-internal-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:30:14.777  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieWeaversImpl
+
+02-05 22:30:14.779  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieBeliefsImpl
+
+02-05 22:30:14.780  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieAssemblersImpl
+
+02-05 22:30:14.782  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieRuntimesImpl
+
+02-05 22:30:14.816  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:131 [main] Found kmodule: file:/home/jessin/Documents/Program/Java/spring_drools/target/classes/META-INF/kmodule.xml
+02-05 22:30:14.816 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:397 [main] KieModule URL type=file url=/home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 22:30:15.233  WARN org.drools.compiler.kie.builder.impl.ClasspathKieProject:286 [main] Unable to find pom.properties in /home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 22:30:15.241  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:328 [main] Recursed up folders, found and used pom.xml /home/jessin/Documents/Program/Java/spring_drools/pom.xml
+02-05 22:30:15.249 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:118 [main] Discovered classpath module com.jessin.practice:spring_drools:1.0.0-SNAPSHOT
+02-05 22:30:15.254  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:111 [main] KieModule was added: FileKieModule[releaseId=com.jessin.practice:spring_drools:1.0.0-SNAPSHOT,file=/home/jessin/Documents/Program/Java/spring_drools/target/classes]
+02-05 22:30:16.896 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was INACTIVE is now FIRING_ALL_RULES
+02-05 22:30:16.960 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was FIRING_ALL_RULES is now HALTING
+02-05 22:30:16.961 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was HALTING is now INACTIVE
+02-05 22:31:22.380  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:31:22.386  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-compiler/7.7.0.Final/drools-compiler-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:31:22.481  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.kie.builder.impl.KieServicesImpl
+
+02-05 22:31:22.486  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.builder.impl.KnowledgeBuilderFactoryServiceImpl
+
+02-05 22:31:22.487  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:31:22.488  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-core/7.7.0.Final/drools-core-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:31:22.491  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.io.impl.ResourceFactoryServiceImpl
+
+02-05 22:31:22.493  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.marshalling.impl.MarshallerProviderImpl
+
+02-05 22:31:22.494  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.concurrent.ExecutorProviderImpl
+
+02-05 22:31:22.494  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:31:22.495  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/kie/kie-internal/7.7.0.Final/kie-internal-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:31:22.496  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieWeaversImpl
+
+02-05 22:31:22.497  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieBeliefsImpl
+
+02-05 22:31:22.499  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieAssemblersImpl
+
+02-05 22:31:22.500  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieRuntimesImpl
+
+02-05 22:31:22.530  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:131 [main] Found kmodule: file:/home/jessin/Documents/Program/Java/spring_drools/target/classes/META-INF/kmodule.xml
+02-05 22:31:22.531 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:397 [main] KieModule URL type=file url=/home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 22:31:22.976  WARN org.drools.compiler.kie.builder.impl.ClasspathKieProject:286 [main] Unable to find pom.properties in /home/jessin/Documents/Program/Java/spring_drools/target/classes
+02-05 22:31:22.995  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:328 [main] Recursed up folders, found and used pom.xml /home/jessin/Documents/Program/Java/spring_drools/pom.xml
+02-05 22:31:23.001 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:118 [main] Discovered classpath module com.jessin.practice:spring_drools:1.0.0-SNAPSHOT
+02-05 22:31:23.007  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:111 [main] KieModule was added: FileKieModule[releaseId=com.jessin.practice:spring_drools:1.0.0-SNAPSHOT,file=/home/jessin/Documents/Program/Java/spring_drools/target/classes]
+02-05 22:31:24.616 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was INACTIVE is now FIRING_ALL_RULES
+02-05 22:31:24.652 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was FIRING_ALL_RULES is now HALTING
+02-05 22:31:24.653 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was HALTING is now INACTIVE
+02-05 22:57:30.852  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:57:30.859  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-compiler/7.7.0.Final/drools-compiler-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:57:30.940  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.kie.builder.impl.KieServicesImpl
+
+02-05 22:57:30.949  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.builder.impl.KnowledgeBuilderFactoryServiceImpl
+
+02-05 22:57:30.950  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:57:30.951  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-core/7.7.0.Final/drools-core-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:57:30.954  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.io.impl.ResourceFactoryServiceImpl
+
+02-05 22:57:30.957  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.marshalling.impl.MarshallerProviderImpl
+
+02-05 22:57:30.958  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.concurrent.ExecutorProviderImpl
+
+02-05 22:57:30.961  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 22:57:30.962  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/kie/kie-internal/7.7.0.Final/kie-internal-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 22:57:30.964  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieWeaversImpl
+
+02-05 22:57:30.965  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieBeliefsImpl
+
+02-05 22:57:30.966  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieAssemblersImpl
+
+02-05 22:57:30.968  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieRuntimesImpl
+
+02-05 23:01:29.905  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:01:29.912  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-compiler/7.7.0.Final/drools-compiler-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:01:29.995  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.kie.builder.impl.KieServicesImpl
+
+02-05 23:01:30.006  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.builder.impl.KnowledgeBuilderFactoryServiceImpl
+
+02-05 23:01:30.007  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:01:30.008  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-core/7.7.0.Final/drools-core-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:01:30.014  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.io.impl.ResourceFactoryServiceImpl
+
+02-05 23:01:30.016  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.marshalling.impl.MarshallerProviderImpl
+
+02-05 23:01:30.017  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.concurrent.ExecutorProviderImpl
+
+02-05 23:01:30.021  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:01:30.021  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/kie/kie-internal/7.7.0.Final/kie-internal-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:01:30.023  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieWeaversImpl
+
+02-05 23:01:30.025  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieBeliefsImpl
+
+02-05 23:01:30.028  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieAssemblersImpl
+
+02-05 23:01:30.030  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieRuntimesImpl
+
+02-05 23:04:37.451  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:04:37.457  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-compiler/7.7.0.Final/drools-compiler-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:04:37.545  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.kie.builder.impl.KieServicesImpl
+
+02-05 23:04:37.558  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.builder.impl.KnowledgeBuilderFactoryServiceImpl
+
+02-05 23:04:37.559  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:04:37.560  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-core/7.7.0.Final/drools-core-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:04:37.562  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.io.impl.ResourceFactoryServiceImpl
+
+02-05 23:04:37.563  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.marshalling.impl.MarshallerProviderImpl
+
+02-05 23:04:37.564  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.concurrent.ExecutorProviderImpl
+
+02-05 23:04:37.565  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:04:37.569  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/kie/kie-internal/7.7.0.Final/kie-internal-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:04:37.570  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieWeaversImpl
+
+02-05 23:04:37.572  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieBeliefsImpl
+
+02-05 23:04:37.573  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieAssemblersImpl
+
+02-05 23:04:37.575  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieRuntimesImpl
+
+02-05 23:04:37.607  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:131 [main] Found kmodule: jar:file:/home/jessin/Documents/Program/JarRepository/com/jessin/practice/spring_drools_jar/1.0.0-SNAPSHOT/spring_drools_jar-1.0.0-SNAPSHOT.jar!/META-INF/kmodule.xml
+02-05 23:04:37.609 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:397 [main] KieModule URL type=jar url=/home/jessin/Documents/Program/JarRepository/com/jessin/practice/spring_drools_jar/1.0.0-SNAPSHOT/spring_drools_jar-1.0.0-SNAPSHOT.jar
+02-05 23:04:38.113 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:265 [main] Found and used pom.properties META-INF/maven/com.jessin.practice/spring_drools_jar/pom.properties
+02-05 23:04:38.123 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:118 [main] Discovered classpath module com.jessin.practice:spring_drools_jar:1.0.0-SNAPSHOT
+02-05 23:04:38.132  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:111 [main] KieModule was added: ZipKieModule[releaseId=com.jessin.practice:spring_drools_jar:1.0.0-SNAPSHOT,file=/home/jessin/Documents/Program/JarRepository/com/jessin/practice/spring_drools_jar/1.0.0-SNAPSHOT/spring_drools_jar-1.0.0-SNAPSHOT.jar]
+02-05 23:04:39.914 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was INACTIVE is now FIRING_ALL_RULES
+02-05 23:04:39.948 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was FIRING_ALL_RULES is now HALTING
+02-05 23:04:39.949 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was HALTING is now INACTIVE
+02-05 23:30:06.097  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:30:06.104  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-compiler/7.7.0.Final/drools-compiler-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:30:06.192  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.kie.builder.impl.KieServicesImpl
+
+02-05 23:30:06.202  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.builder.impl.KnowledgeBuilderFactoryServiceImpl
+
+02-05 23:30:06.203  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:30:06.204  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-core/7.7.0.Final/drools-core-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:30:06.207  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.io.impl.ResourceFactoryServiceImpl
+
+02-05 23:30:06.210  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.marshalling.impl.MarshallerProviderImpl
+
+02-05 23:30:06.211  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.concurrent.ExecutorProviderImpl
+
+02-05 23:30:06.215  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:30:06.216  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/kie/kie-internal/7.7.0.Final/kie-internal-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:30:06.218  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieWeaversImpl
+
+02-05 23:30:06.219  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieBeliefsImpl
+
+02-05 23:30:06.221  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieAssemblersImpl
+
+02-05 23:30:06.222  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieRuntimesImpl
+
+02-05 23:30:07.030 ERROR org.drools.compiler.kie.builder.impl.KieProject:221 [main] Unable to build KieBase, could not find include: kiebase1
+02-05 23:30:07.035 ERROR org.drools.compiler.kie.builder.impl.KieProject:221 [main] Unable to build KieBase, could not find include: kiebase2
+02-05 23:31:10.648  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:31:10.655  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-compiler/7.7.0.Final/drools-compiler-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:31:10.750  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.kie.builder.impl.KieServicesImpl
+
+02-05 23:31:10.759  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.builder.impl.KnowledgeBuilderFactoryServiceImpl
+
+02-05 23:31:10.760  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:31:10.762  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-core/7.7.0.Final/drools-core-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:31:10.765  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.io.impl.ResourceFactoryServiceImpl
+
+02-05 23:31:10.768  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.marshalling.impl.MarshallerProviderImpl
+
+02-05 23:31:10.769  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.concurrent.ExecutorProviderImpl
+
+02-05 23:31:10.773  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:31:10.774  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/kie/kie-internal/7.7.0.Final/kie-internal-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:31:10.777  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieWeaversImpl
+
+02-05 23:31:10.778  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieBeliefsImpl
+
+02-05 23:31:10.781  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieAssemblersImpl
+
+02-05 23:31:10.782  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieRuntimesImpl
+
+02-05 23:31:11.667  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:111 [main] KieModule was added: MemoryKieModule[releaseId=org.drools:kiemodulemodel-example:6.0.0-SNAPSHOT]
+02-05 23:31:11.680 DEBUG org.drools.compiler.kie.builder.impl.KieRepositoryImpl:89 [main] Cannot load a KieRepositoryScanner, using the DummyKieScanner
+02-05 23:34:05.373  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:34:05.378  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-compiler/7.7.0.Final/drools-compiler-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:34:05.478  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.kie.builder.impl.KieServicesImpl
+
+02-05 23:34:05.492  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.builder.impl.KnowledgeBuilderFactoryServiceImpl
+
+02-05 23:34:05.493  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:34:05.494  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-core/7.7.0.Final/drools-core-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:34:05.496  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.io.impl.ResourceFactoryServiceImpl
+
+02-05 23:34:05.499  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.marshalling.impl.MarshallerProviderImpl
+
+02-05 23:34:05.500  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.concurrent.ExecutorProviderImpl
+
+02-05 23:34:05.504  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:34:05.505  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/kie/kie-internal/7.7.0.Final/kie-internal-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:34:05.506  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieWeaversImpl
+
+02-05 23:34:05.508  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieBeliefsImpl
+
+02-05 23:34:05.509  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieAssemblersImpl
+
+02-05 23:34:05.511  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieRuntimesImpl
+
+02-05 23:34:06.368  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:111 [main] KieModule was added: MemoryKieModule[releaseId=org.drools:kiemodulemodel-example:6.0.0-SNAPSHOT]
+02-05 23:34:06.385 DEBUG org.drools.compiler.kie.builder.impl.KieRepositoryImpl:89 [main] Cannot load a KieRepositoryScanner, using the DummyKieScanner
+02-05 23:37:27.276  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:37:27.283  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-compiler/7.7.0.Final/drools-compiler-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:37:27.368  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.kie.builder.impl.KieServicesImpl
+
+02-05 23:37:27.380  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.builder.impl.KnowledgeBuilderFactoryServiceImpl
+
+02-05 23:37:27.381  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:37:27.381  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-core/7.7.0.Final/drools-core-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:37:27.384  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.io.impl.ResourceFactoryServiceImpl
+
+02-05 23:37:27.386  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.marshalling.impl.MarshallerProviderImpl
+
+02-05 23:37:27.387  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.concurrent.ExecutorProviderImpl
+
+02-05 23:37:27.391  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:37:27.392  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/kie/kie-internal/7.7.0.Final/kie-internal-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:37:27.394  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieWeaversImpl
+
+02-05 23:37:27.395  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieBeliefsImpl
+
+02-05 23:37:27.397  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieAssemblersImpl
+
+02-05 23:37:27.398  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieRuntimesImpl
+
+02-05 23:37:28.312  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:111 [main] KieModule was added: MemoryKieModule[releaseId=org.drools:kiemodulemodel-example:6.0.0-SNAPSHOT]
+02-05 23:37:28.318 DEBUG org.drools.compiler.kie.builder.impl.KieRepositoryImpl:89 [main] Cannot load a KieRepositoryScanner, using the DummyKieScanner
+02-05 23:43:22.467  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:43:22.475  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-compiler/7.7.0.Final/drools-compiler-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:43:22.570  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.kie.builder.impl.KieServicesImpl
+
+02-05 23:43:22.586  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.builder.impl.KnowledgeBuilderFactoryServiceImpl
+
+02-05 23:43:22.587  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:43:22.588  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-core/7.7.0.Final/drools-core-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:43:22.591  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.io.impl.ResourceFactoryServiceImpl
+
+02-05 23:43:22.594  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.marshalling.impl.MarshallerProviderImpl
+
+02-05 23:43:22.595  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.concurrent.ExecutorProviderImpl
+
+02-05 23:43:22.600  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:43:22.602  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/kie/kie-internal/7.7.0.Final/kie-internal-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:43:22.603  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieWeaversImpl
+
+02-05 23:43:22.605  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieBeliefsImpl
+
+02-05 23:43:22.607  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieAssemblersImpl
+
+02-05 23:43:22.609  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieRuntimesImpl
+
+02-05 23:43:24.680 ERROR org.drools.compiler.kie.builder.impl.KieProject:253 [main] Unable to build KieBaseModel:kiemodulemodel
+Unable to resolve ObjectType 'Message' : [Rule name='rule6']
+
+Rule Compilation error : [Rule name='rule6']
+	org/drools/example/api/kiemodulemodel/Rule_rule62105167107.java (2:54) : Only a type can be imported. org.drools.example.api.namedkiesession.Message resolves to a package
+	org/drools/example/api/kiemodulemodel/Rule_rule62105167107.java (7:457) : Message cannot be resolved to a type
+
+Error importing : 'org.drools.example.api.namedkiesession.Message'
+
+02-05 23:47:49.520  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:47:49.527  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-compiler/7.7.0.Final/drools-compiler-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:47:49.626  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.kie.builder.impl.KieServicesImpl
+
+02-05 23:47:49.643  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.builder.impl.KnowledgeBuilderFactoryServiceImpl
+
+02-05 23:47:49.644  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:47:49.645  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-core/7.7.0.Final/drools-core-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:47:49.648  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.io.impl.ResourceFactoryServiceImpl
+
+02-05 23:47:49.651  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.marshalling.impl.MarshallerProviderImpl
+
+02-05 23:47:49.653  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.concurrent.ExecutorProviderImpl
+
+02-05 23:47:49.657  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:47:49.658  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/kie/kie-internal/7.7.0.Final/kie-internal-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:47:49.660  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieWeaversImpl
+
+02-05 23:47:49.661  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieBeliefsImpl
+
+02-05 23:47:49.663  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieAssemblersImpl
+
+02-05 23:47:49.665  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieRuntimesImpl
+
+02-05 23:47:51.549  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:111 [main] KieModule was added: MemoryKieModule[releaseId=org.drools:kiemodulemodel-example:6.0.0-SNAPSHOT]
+02-05 23:47:51.551 DEBUG org.drools.compiler.kie.builder.impl.KieRepositoryImpl:89 [main] Cannot load a KieRepositoryScanner, using the DummyKieScanner
+02-05 23:47:51.731 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was INACTIVE is now FIRING_ALL_RULES
+02-05 23:47:51.779 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was FIRING_ALL_RULES is now HALTING
+02-05 23:47:51.779 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was HALTING is now INACTIVE
+02-05 23:48:29.705  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:48:29.712  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-compiler/7.7.0.Final/drools-compiler-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:48:29.790  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.kie.builder.impl.KieServicesImpl
+
+02-05 23:48:29.796  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.builder.impl.KnowledgeBuilderFactoryServiceImpl
+
+02-05 23:48:29.796  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:48:29.799  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-core/7.7.0.Final/drools-core-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:48:29.802  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.io.impl.ResourceFactoryServiceImpl
+
+02-05 23:48:29.804  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.marshalling.impl.MarshallerProviderImpl
+
+02-05 23:48:29.805  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.concurrent.ExecutorProviderImpl
+
+02-05 23:48:29.809  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:48:29.810  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/kie/kie-internal/7.7.0.Final/kie-internal-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:48:29.812  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieWeaversImpl
+
+02-05 23:48:29.814  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieBeliefsImpl
+
+02-05 23:48:29.815  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieAssemblersImpl
+
+02-05 23:48:29.816  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieRuntimesImpl
+
+02-05 23:48:29.856  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:131 [main] Found kmodule: jar:file:/home/jessin/Documents/Program/JarRepository/com/jessin/practice/spring_drools_jar/1.0.0-SNAPSHOT/spring_drools_jar-1.0.0-SNAPSHOT.jar!/META-INF/kmodule.xml
+02-05 23:48:29.859 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:397 [main] KieModule URL type=jar url=/home/jessin/Documents/Program/JarRepository/com/jessin/practice/spring_drools_jar/1.0.0-SNAPSHOT/spring_drools_jar-1.0.0-SNAPSHOT.jar
+02-05 23:48:30.292 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:265 [main] Found and used pom.properties META-INF/maven/com.jessin.practice/spring_drools_jar/pom.properties
+02-05 23:48:30.296 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:118 [main] Discovered classpath module com.jessin.practice:spring_drools_jar:1.0.0-SNAPSHOT
+02-05 23:48:30.300  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:111 [main] KieModule was added: ZipKieModule[releaseId=com.jessin.practice:spring_drools_jar:1.0.0-SNAPSHOT,file=/home/jessin/Documents/Program/JarRepository/com/jessin/practice/spring_drools_jar/1.0.0-SNAPSHOT/spring_drools_jar-1.0.0-SNAPSHOT.jar]
+02-05 23:48:32.161 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was INACTIVE is now FIRING_ALL_RULES
+02-05 23:48:32.229 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was FIRING_ALL_RULES is now HALTING
+02-05 23:48:32.229 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was HALTING is now INACTIVE
+02-05 23:48:32.250 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was INACTIVE is now FIRING_ALL_RULES
+02-05 23:48:32.251 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was FIRING_ALL_RULES is now HALTING
+02-05 23:48:32.252 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was HALTING is now INACTIVE
+02-05 23:48:32.492 ERROR org.drools.compiler.kie.builder.impl.KieProject:253 [main] Unable to build KieBaseModel:kiemodulemodel
+Rule Compilation error : [Rule name='rule6']
+	org/drools/example/api/kiemodulemodel/Rule_rule6331113617.java (8:485) : Syntax error, insert ";" to complete Statement
+
+
+02-05 23:49:00.574  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:49:00.583  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-compiler/7.7.0.Final/drools-compiler-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:49:00.669  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.kie.builder.impl.KieServicesImpl
+
+02-05 23:49:00.675  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.builder.impl.KnowledgeBuilderFactoryServiceImpl
+
+02-05 23:49:00.675  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:49:00.676  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-core/7.7.0.Final/drools-core-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:49:00.679  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.io.impl.ResourceFactoryServiceImpl
+
+02-05 23:49:00.681  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.marshalling.impl.MarshallerProviderImpl
+
+02-05 23:49:00.687  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.concurrent.ExecutorProviderImpl
+
+02-05 23:49:00.692  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:49:00.694  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/kie/kie-internal/7.7.0.Final/kie-internal-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:49:00.696  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieWeaversImpl
+
+02-05 23:49:00.698  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieBeliefsImpl
+
+02-05 23:49:00.699  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieAssemblersImpl
+
+02-05 23:49:00.701  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieRuntimesImpl
+
+02-05 23:49:00.730  INFO org.drools.compiler.kie.builder.impl.ClasspathKieProject:131 [main] Found kmodule: jar:file:/home/jessin/Documents/Program/JarRepository/com/jessin/practice/spring_drools_jar/1.0.0-SNAPSHOT/spring_drools_jar-1.0.0-SNAPSHOT.jar!/META-INF/kmodule.xml
+02-05 23:49:00.731 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:397 [main] KieModule URL type=jar url=/home/jessin/Documents/Program/JarRepository/com/jessin/practice/spring_drools_jar/1.0.0-SNAPSHOT/spring_drools_jar-1.0.0-SNAPSHOT.jar
+02-05 23:49:01.179 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:265 [main] Found and used pom.properties META-INF/maven/com.jessin.practice/spring_drools_jar/pom.properties
+02-05 23:49:01.184 DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject:118 [main] Discovered classpath module com.jessin.practice:spring_drools_jar:1.0.0-SNAPSHOT
+02-05 23:49:01.188  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:111 [main] KieModule was added: ZipKieModule[releaseId=com.jessin.practice:spring_drools_jar:1.0.0-SNAPSHOT,file=/home/jessin/Documents/Program/JarRepository/com/jessin/practice/spring_drools_jar/1.0.0-SNAPSHOT/spring_drools_jar-1.0.0-SNAPSHOT.jar]
+02-05 23:49:02.775 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was INACTIVE is now FIRING_ALL_RULES
+02-05 23:49:02.821 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was FIRING_ALL_RULES is now HALTING
+02-05 23:49:02.821 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was HALTING is now INACTIVE
+02-05 23:49:02.843 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was INACTIVE is now FIRING_ALL_RULES
+02-05 23:49:02.845 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was FIRING_ALL_RULES is now HALTING
+02-05 23:49:02.846 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was HALTING is now INACTIVE
+02-05 23:49:03.035  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:111 [main] KieModule was added: MemoryKieModule[releaseId=org.drools:kiemodulemodel-example:6.0.0-SNAPSHOT]
+02-05 23:49:03.039 DEBUG org.drools.compiler.kie.builder.impl.KieRepositoryImpl:89 [main] Cannot load a KieRepositoryScanner, using the DummyKieScanner
+02-05 23:49:03.049 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was INACTIVE is now FIRING_ALL_RULES
+02-05 23:49:03.058 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was FIRING_ALL_RULES is now HALTING
+02-05 23:49:03.058 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was HALTING is now INACTIVE
+02-05 23:52:54.597  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:52:54.611  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-compiler/7.7.0.Final/drools-compiler-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:52:54.714  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.kie.builder.impl.KieServicesImpl
+
+02-05 23:52:54.721  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.compiler.builder.impl.KnowledgeBuilderFactoryServiceImpl
+
+02-05 23:52:54.722  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:52:54.725  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/drools/drools-core/7.7.0.Final/drools-core-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:52:54.728  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.io.impl.ResourceFactoryServiceImpl
+
+02-05 23:52:54.730  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.marshalling.impl.MarshallerProviderImpl
+
+02-05 23:52:54.731  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.drools.core.concurrent.ExecutorProviderImpl
+
+02-05 23:52:54.734  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:107 [main] Loading kie.conf from  
+02-05 23:52:54.735  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:117 [main] Discovered kie.conf url=jar:file:/home/jessin/Documents/Program/JarRepository/org/kie/kie-internal/7.7.0.Final/kie-internal-7.7.0.Final.jar!/META-INF/kie.conf 
+02-05 23:52:54.736  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieWeaversImpl
+
+02-05 23:52:54.737  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieBeliefsImpl
+
+02-05 23:52:54.739  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieAssemblersImpl
+
+02-05 23:52:54.741  INFO org.kie.api.internal.utils.ServiceDiscoveryImpl:158 [main] Adding Service org.kie.internal.services.KieRuntimesImpl
+
+02-05 23:52:55.538  WARN org.drools.compiler.kie.builder.impl.KieProject:239 [main] No files found for KieBase kiemodulemodel
+02-05 23:52:55.679  INFO org.drools.compiler.kie.builder.impl.KieRepositoryImpl:111 [main] KieModule was added: MemoryKieModule[releaseId=org.drools:kiemodulemodel-example:6.0.0-SNAPSHOT]
+02-05 23:52:55.681 DEBUG org.drools.compiler.kie.builder.impl.KieRepositoryImpl:89 [main] Cannot load a KieRepositoryScanner, using the DummyKieScanner
+02-05 23:52:55.982 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was INACTIVE is now FIRING_ALL_RULES
+02-05 23:52:55.984 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was FIRING_ALL_RULES is now HALTING
+02-05 23:52:55.987 DEBUG org.drools.core.common.DefaultAgenda:1389 [main] State was HALTING is now INACTIVE
