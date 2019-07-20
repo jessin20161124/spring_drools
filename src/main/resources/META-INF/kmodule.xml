@@ -3,7 +3,7 @@
     <kbase name="rules" packages="rules">
         <ksession name="ksession-rules"/>
     </kbase>
-    <kbase name="dtables" packages="dtables">
-        <ksession name="ksession-dtables"/>
+    <kbase name="dtables" packages="tables">
+        <ksession name="ksession-tables"/>
     </kbase>
 </kmodule>
