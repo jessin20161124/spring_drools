@@ -1,12 +1,12 @@
 package com.jessin.practice;
 
+import com.jessin.practice.model.Message;
 import com.jessin.practice.model.Refuse;
 import org.drools.core.command.runtime.BatchExecutionCommandImpl;
 import org.junit.Test;
 import org.kie.api.KieServices;
 import org.kie.api.builder.KieBuilder;
 import org.kie.api.builder.KieFileSystem;
-import org.kie.api.builder.Message;
 import org.kie.api.builder.ReleaseId;
 import org.kie.api.builder.model.KieModuleModel;
 import org.kie.api.runtime.ExecutionResults;
@@ -29,14 +29,15 @@ public class RefuseTest {
             Map<String, String> refuseDate = new HashMap<String, String>();
             KieServices ks = KieServices.get();
             KieContainer kContainer = ks.getKieClasspathContainer();
-            KieSession kSession = kContainer.newKieSession("session-base");
-            Refuse refuse = new Refuse();
-            refuse.setAge(80);
-            kSession.setGlobal("refuseDate", refuseDate);
-            kSession.insert(refuse);
+            KieSession kSession = kContainer.newKieSession("ksession-rules");
+            Message message = new Message();
+            message.setStatus(Message.HELLO_WORLD);
+            message.setDesc("老司机来了");
+            //kSession.setGlobal("refuseDate", refuseDate);
+            kSession.insert(message);
             int count = kSession.fireAllRules();
             System.out.println("规则执行条数：--------" + count);
-            System.out.println("规则执行完成--------" + refuse);
+            System.out.println("规则执行完成--------" + message);
             System.out.println(kSession.getGlobals().toString());
         } catch (Throwable t) {
             t.printStackTrace();
@@ -69,31 +70,31 @@ public class RefuseTest {
     public void test3() {
         KieServices ks = KieServices.get();
         KieFileSystem kfs = ks.newKieFileSystem();
-
-//        Resource ex1Res = ks.getResources().newFileSystemResource(getFile("named-kiesession"));
-//        Resource ex2Res = ks.getResources().newFileSystemResource(getFile("kiebase-inclusion"));
-
         ReleaseId rid = ks.newReleaseId("org.drools", "kiemodulemodel-example", "6.0.0-SNAPSHOT");
         kfs.generateAndWritePomXML(rid);
 
+        // 构建一个kmodule.xml
         KieModuleModel kModuleModel = ks.newKieModuleModel();
         kModuleModel.newKieBaseModel("kiemodulemodel")
-//                .addInclude("kiebase1")
-//                .addInclude("kiebase2")
+                .addPackage("rules")
                 .newKieSessionModel("ksession6");
-
-        kfs.writeKModuleXML(kModuleModel.toXML());
-        kfs.write("src/main/resources/kiemodulemodel/HAL6.drl", getRule());
+        String xml = kModuleModel.toXML();
+        System.out.println("xml为：" + xml);
+        // 产生kmodule.xml
+        kfs.writeKModuleXML(xml);
+        // 产生规则，将规则写到kfs中，HAL6为对应的路径，必须在上面指定的rules路径下才能找到
+        kfs.write("src/main/resources/rules/HAL6.drl", getRule());
+        // 基于kfs构建规则
         KieBuilder kb = ks.newKieBuilder(kfs);
-//        kb.setDependencies(ex1Res, ex2Res);
-        kb.buildAll(); // kieModule is automatically deployed to KieRepository if successfully built.
-        if (kb.getResults().hasMessages(Message.Level.ERROR)) {
+        kb.buildAll();
+        if (kb.getResults().hasMessages(org.kie.api.builder.Message.Level.ERROR)) {
             throw new RuntimeException("Build Errors:\n" + kb.getResults().toString());
         }
         KieContainer kContainer = ks.newKieContainer(rid);
         KieSession kSession = kContainer.newKieSession("ksession6");
         Refuse refuse = new Refuse();
         refuse.setAge(10);
+        refuse.setWorkCity("北京");
         kSession.insert(refuse);
         kSession.fireAllRules();
     }
@@ -103,10 +104,10 @@ public class RefuseTest {
                 "package org.drools.example.api.kiemodulemodel \n\n" +
                 "import com.jessin.practice.model.Refuse \n\n" +
                 "rule rule6 when \n" +
-                "    Refuse(age == 10) \n" +
+                "    refuse : Refuse(age == 10) \n" +
                 "then\n" +
                 "    insert( new Refuse() ); \n" +
-                "    System.out.println(\"hello\");\n" +
+                "    System.out.println(refuse);\n" +
                 "end \n";
         return s;
     }

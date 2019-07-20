@@ -1,0 +1,20 @@
+package os.nut.drools
+
+import com.jessin.practice.model.Message
+
+rule "Hello World"
+    when
+        m : Message( status == Message.HELLO_WORLD, myMessage : desc )
+    then
+        m.setDesc("hello cruel world");
+        m.setStatus( Message.GOOD_BYE );
+        System.out.println("hello world规则：" + myMessage);
+        update( m );
+end
+
+rule "GoodBye"
+    when
+        Message( status == Message.GOOD_BYE, myMessage : desc )
+    then
+        System.out.println("good bye 规则：" + myMessage );
+end
